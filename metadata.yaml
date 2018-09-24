@@ -1,0 +1,42 @@
+_repo: Tales-from-Gorky_56870
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Bain, R. Nisbet (Robert Nisbet)
+    alias: Bain, Robert Nisbet
+    birthdate: 1854
+    deathdate: 1909
+    gutenberg_agent_id: '5096'
+    url: http://www.gutenberg.org/2009/agents/5096
+creator:
+  author:
+    agent_name: Gorky, Maksim
+    aliases:
+    - Gorky, Maxim
+    - Gorky, Maxime
+    - Peshkov, Alexey Maximiovich
+    - Горький, Максим
+    birthdate: 1868
+    deathdate: 1936
+    gutenberg_agent_id: '348'
+    url: http://www.gutenberg.org/2009/agents/348
+    wikipedia: http://en.wikipedia.org/wiki/Maxim_Gorky
+description: ''
+gutenberg_issued: '2018-03-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56870'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Russian fiction -- Translations into English'
+- !lcsh 'Short stories, Russian -- Translations into English'
+- !lcc 'PG'
+- GITenberg
+tableOfContents: Biographical sketch -- In the steppe -- Twenty-six of us and one
+  other -- One autumn night -- A rolling stone -- The green kitten -- Comrades --
+  Her lover -- Chelkash -- Chums.
+title: Tales from Gorky
+url: http://www.gutenberg.org/ebooks/56870
